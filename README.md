@@ -13,6 +13,7 @@ Contents
 -----------------
 
 ## People ##
+|  Emoji | Emoji | Emoji |
 |---|---|---|
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
@@ -81,9 +82,9 @@ Contents
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
 ## Nature ##
-
-| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
+|  Emoji | Emoji | Emoji |
 |---|---|---|
+| :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
