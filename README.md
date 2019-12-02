@@ -1,7 +1,7 @@
 # Emoji
 
 
-Table of Contents
+Contents
 -----------------
 
 - [People](#people)
@@ -9,6 +9,8 @@ Table of Contents
 - [Objects](#objects)
 - [Places](#places)
 - [Symbols](#symbols)
+
+-----------------
 
 ## People ##
 
