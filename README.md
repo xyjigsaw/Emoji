@@ -1,4 +1,4 @@
-# Emoji for Github
+# Emoji shortcodes for Github
 
 Contents
 -----------------
